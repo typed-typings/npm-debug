@@ -1,0 +1,8 @@
+{
+  "files": [
+    "tdw_typings/tdw.main.d.ts",
+    "test.ts",
+    "node.d.ts",
+    "browser.d.ts"
+  ]
+}

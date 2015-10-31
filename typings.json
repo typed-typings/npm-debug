@@ -3,6 +3,6 @@
   "main": "node.d.ts",
   "browser": "browser.d.ts",
   "dependencies": {
-    "ms": "github:TypedWriter/typed-ms#d33099c9a1e0750380c6a46dc1cb5b14ad7ce1f8"
+    "ms": "github:TypedWriter/typed-ms#f40c81c7f45bc35e970de851117c29fc959220b2"
   }
 }

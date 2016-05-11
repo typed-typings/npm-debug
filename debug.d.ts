@@ -2,7 +2,7 @@ import ms = require('ms');
 
 declare function debug (namespace: string): debug.Debugger;
 
-declare module debug {
+declare namespace debug {
   export interface Debugger {
     (message: any, ...args: any[]): void;
     enabled: boolean;

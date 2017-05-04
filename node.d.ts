@@ -7,6 +7,7 @@ declare namespace debug {
     (message: any, ...args: any[]): void;
     enabled: boolean;
     namespace: string;
+    log: Function;
   }
 
   export function coerce (value: any): any;
